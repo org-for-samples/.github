@@ -2,6 +2,6 @@
 
 .github リポジトリ上のページ
 
-[コントリビューションガイド](CONTRIBUTING.md)
+[コントリビューションガイド](.github/CONTRIBUTING.md)
 
 [test.md](./test.md)
