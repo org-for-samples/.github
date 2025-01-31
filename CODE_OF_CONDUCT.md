@@ -2,8 +2,8 @@
 
 .github リポジトリ上のページ
 
-[コントリビューションガイド](./CONTRIBUTING.md)
+[コントリビューションガイド](/.github/CONTRIBUTING.md)
 
-[SECURITY.md](./SECURITY.md)
+[SECURITY.md](/SECURITY.md)
 
 [test.md](./test.md)
