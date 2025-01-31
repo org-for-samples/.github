@@ -61,5 +61,5 @@ body:
           required: true
         - label: 報告しようとしている不具合が [Issues](https://github.com/AlesInfiny/maris/issues) および [Discussions](https://github.com/AlesInfiny/maris/discussions) に登録されていないことを確認しました。
           required: true
-        - label: 私たちの [行動規範](../../CODE_OF_CONDUCT.md) に従うことを同意します。
+        - label: 私たちの [行動規範](https://github.com/org-for-samples/.github/blob/main/CODE_OF_CONDUCT.md) に従うことを同意します。
           required: true
