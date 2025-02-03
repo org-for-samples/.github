@@ -7,7 +7,7 @@
 <!-- org/.github/?tab=coc-ov-file に遷移-->
 [リポジトリトップ画面の行動規範へのリンク](../../?tab=coc-ov-file)
 
-[repo1/documents/README.md](../../../repo1/documents/README.md)
+[repo1/documents/README.md](../../../repo1/tree/main/documents/README.md)
 
 [repo1/DiscussionsのQ&A](../../../repo1/discussions/categories/05-q-a)
 
