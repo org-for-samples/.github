@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         不具合の報告にご協力いただきありがとうございます！
-        報告したい不具合が機密情報を含むセキュリティ関連の問題、脆弱性である場合、 [Open a draft security advisory](https://github.com/AlesInfiny/maris/security/advisories/new) から報告するようお願いします。
+        報告したい不具合が機密情報を含むセキュリティ関連の問題、脆弱性である場合、 [Open a draft security advisory](../security/advisories/new) から報告するようお願いします。
   - type: textarea
     id: expected-behavior
     attributes:
