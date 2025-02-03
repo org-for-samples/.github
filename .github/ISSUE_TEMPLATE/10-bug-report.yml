@@ -57,9 +57,9 @@ body:
       label: 確認
       description: 以下の項目の確認および同意ができたら、チェックボックスをオンにしてください。
       options:
-        - label: 報告しようとしている不具合がセキュリティ関連の問題、脆弱性に関するものではないことを確認しました。セキュリティ関連の問題、脆弱性の場合は [Open a draft security advisory](https://github.com/AlesInfiny/maris/security/advisories/new) から報告してください。
+        - label: 報告しようとしている不具合がセキュリティ関連の問題、脆弱性に関するものではないことを確認しました。セキュリティ関連の問題、脆弱性の場合は [Open a draft security advisory](../security/advisories/new) から報告してください。
           required: true
-        - label: 報告しようとしている不具合が [Issues](https://github.com/AlesInfiny/maris/issues) および [Discussions](https://github.com/AlesInfiny/maris/discussions) に登録されていないことを確認しました。
+        - label: 報告しようとしている不具合が [Issues](../issues) および [Discussions](../discussions) に登録されていないことを確認しました。
           required: true
-        - label: 私たちの [行動規範](https://github.com/org-for-samples/.github/blob/main/CODE_OF_CONDUCT.md) に従うことを同意します。
+        - label: 私たちの [行動規範](../?tab=coc-ov-file) に従うことを同意します。
           required: true
